@@ -43,4 +43,4 @@ Here's an overview of what I'm working on this quarter:
 3. Build my social facilitation skills and knowledge of UCSD campus resources in preparation for Seventh College Fall Orientation, as an orientation leader.
 
 ## More Info
-Wanna know my university PID? Checkout this private [text file](./PRIVATE.txt) file that I created for this assignment.
+Wanna know my favorite programming language? Checkout the [README file](README.md) file that I created for this assignment.
