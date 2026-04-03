@@ -2,4 +2,4 @@
 My favorite programming language is Java, because the formatting makes code look super consistent. It was also the first programming language I learned here at UCSD!
 
 Here is the URL to my published GitHub pages site:
-[https://zdhuang1.github.io/cse110-lab-1/](https://zdhuang1.github.io/cse110-lab-1/)
+https://zdhuang1.github.io/cse110-lab-1/
